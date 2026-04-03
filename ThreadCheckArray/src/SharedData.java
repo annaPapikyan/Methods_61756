@@ -68,7 +68,7 @@ public class SharedData
 	}
 
 	/**
-	 * Changes the flag status. Usually called when a thread finds the right sum.
+	 * Changes the flag status. Usually called when a thread finds the right sum..
 	 * * @param flag the new status to set
 	 */
 	public void setFlag(boolean flag) {
